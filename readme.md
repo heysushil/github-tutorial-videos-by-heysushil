@@ -1,5 +1,7 @@
 # GitHub Setup with VS Code Editor
 
+## [GitHub Video Tutorial Playlist on HeySushil YouTube](https://www.youtube.com/playlist?list=PLK6wiPavf7Qjydpc5v-hdIoqCx2V19pHP)
+
 ## Setps to setup scm
 
 1. Sab se pahle yaha se [GitHub SCM](https://git-scm.com/) software ko download karo.
@@ -11,6 +13,7 @@
 1. Jab ye path miljaye to akhri command Git Bash me ye chalana hai: `git config --global core.editor "E:/Programs/Microsoft VS Code/Code.exe"` Ye yaad rahe ke maine yaha par apna Microsoft VS Code Editor ka path use kiya hai.
 1. At last agar `Code.exe` ka path nahi mil raha hai to kewal itna hi run kar do: `git config --global core.editor "code --wait"`
 
+> Note: Isske baad GitHub se realated baki sare features and option isssi repository me alag alag file name se available hain.
 
 ## Jaruri Git SCM Links
 
